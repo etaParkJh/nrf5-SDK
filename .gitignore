@@ -1,6 +1,7 @@
-examples\peripheral\blinky\pca10056\blank\ses\Output
-examples\peripheral\blinky_FreeRTOS\pca10056\blank\ses\Output
-examples\peripheral\blinky_RTC_FreeRTOS\pca10056\blank\ses\Output
-examples\peripheral\blinky_systick\pca10056\blank\ses\Output
-examples\peripheral\bsp\pca10056\blank\ses\Output
+nRF5_SDK_17.1.0_ddde560/examples/peripheral/blinky/pca10056/blank/ses/Output
+nRF5_SDK_17.1.0_ddde560/examples/peripheral/blinky_FreeRTOS/pca10056/blank/ses/Output
+nRF5_SDK_17.1.0_ddde560/examples/peripheral/blinky_RTC_FreeRTOS/pca10056/blank/ses/Output
+nRF5_SDK_17.1.0_ddde560/examples/peripheral/blinky_systick/pca10056/blank/ses/Output
+nRF5_SDK_17.1.0_ddde560/examples/peripheral/bsp/pca10056/blank/ses/Output
 
+nRF5_SDK_17.1.0_ddde560/examples/peripheral/bsp/pca10056/blank/ses/Output/

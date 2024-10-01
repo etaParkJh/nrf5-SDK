@@ -9,6 +9,7 @@
         "nrf_drv_clock.h": "c",
         "sdk_errors.h": "c",
         "nrf_drv_rtc.h": "c",
-        "app_error.h": "c"
+        "app_error.h": "c",
+        "nrf_log.h": "c"
     }
 }
